@@ -1,4 +1,4 @@
-package TimeComplexity;
+package timeComplexity;
 
 public class Test3 {
     public static void main(String[] args) {
