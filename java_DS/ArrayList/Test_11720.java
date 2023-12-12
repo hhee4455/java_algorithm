@@ -1,4 +1,4 @@
-package java_DS;
+package java_DS.ArrayList;
 
 import java.util.Scanner;
 
