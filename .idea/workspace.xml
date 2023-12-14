@@ -5,31 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="575e9469-c1a0-42af-9c4f-72314232d75d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_DS/prefixsum/Test_10986.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_DS/prefixsum/Test_11660.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b679666ce41d087cd85468f582e2c9dc9bbc8bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c14b3619f2a23b47a557b24d0e62391dca5a4a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7899f8b602c23b115acfcca6e12883f2ce4416e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/912f374a71bbac2e67eb227c2489c69495b32c2b" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_DS/pointer/Test_2018.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/b/1b679666ce41d087cd85468f582e2c9dc9bbc8bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/c/5c14b3619f2a23b47a557b24d0e62391dca5a4a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/8/7899f8b602c23b115acfcca6e12883f2ce4416e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/1/912f374a71bbac2e67eb227c2489c69495b32c2b" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/1/b/1b679666ce41d087cd85468f582e2c9dc9bbc8bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/5/c/5c14b3619f2a23b47a557b24d0e62391dca5a4a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/7/8/7899f8b602c23b115acfcca6e12883f2ce4416e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/9/1/912f374a71bbac2e67eb227c2489c69495b32c2b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/1/b/1b679666ce41d087cd85468f582e2c9dc9bbc8bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/5/c/5c14b3619f2a23b47a557b24d0e62391dca5a4a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/7/8/7899f8b602c23b115acfcca6e12883f2ce4416e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/9/1/912f374a71bbac2e67eb227c2489c69495b32c2b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algorithm/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +88,7 @@
     "애플리케이션.Test_11660.executor": "Run",
     "애플리케이션.Test_11720.executor": "Run",
     "애플리케이션.Test_1546.executor": "Run",
+    "애플리케이션.Test_2018.executor": "Run",
     "애플리케이션.이름이 지정되지 않았습니다.executor": "Run"
   },
   "keyToStringList": {
@@ -149,7 +129,7 @@
       <workItem from="1702364408011" duration="3213000" />
       <workItem from="1702393667136" duration="5964000" />
       <workItem from="1702440364969" duration="6804000" />
-      <workItem from="1702516143278" duration="1641000" />
+      <workItem from="1702516143278" duration="7009000" />
     </task>
     <servers />
   </component>

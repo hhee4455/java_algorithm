@@ -19,3 +19,5 @@ Q
 Test/Main.java,9\a\9af7799c52c76c047a73e4d8814db69c89754d92
 Q
 !java_DS/prefixsum/Test_10986.java,9\e\9e5dac1741a13883cc890c6eb0d1c4af66cef0bb
+N
+java_DS/pointer/Test_2018.java,3\7\37368f96e0ae4a18ffb63ba072387371e8f4aa3d
