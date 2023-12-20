@@ -19,3 +19,11 @@ Q
 Test/Main.java,9\a\9af7799c52c76c047a73e4d8814db69c89754d92
 Q
 !java_DS/prefixsum/Test_10986.java,9\e\9e5dac1741a13883cc890c6eb0d1c4af66cef0bb
+N
+java_DS/pointer/Test_2018.java,3\7\37368f96e0ae4a18ffb63ba072387371e8f4aa3d
+N
+java_DS/pointer/Test_1940.java,e\d\ed46f41f87e5143e30664d99265f7cc4c1dd89ff
+N
+java_DS/pointer/Test_1253.java,5\9\59fd8c2ca3943e610d8b0920c61d19524b20ab75
+O
+java_DS/sliding/Test_12891.java,e\7\e7dd0e796880cefbe45fa530fc3f53f0f88f676c

@@ -5,29 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="575e9469-c1a0-42af-9c4f-72314232d75d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_DS/prefixsum/Test_10986.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_DS/prefixsum/Test_11660.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b679666ce41d087cd85468f582e2c9dc9bbc8bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c14b3619f2a23b47a557b24d0e62391dca5a4a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7899f8b602c23b115acfcca6e12883f2ce4416e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/912f374a71bbac2e67eb227c2489c69495b32c2b" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_DS/pointer/Test_1253.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_DS/pointer/Test_1940.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_DS/sliding/Test_12891.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/b/1b679666ce41d087cd85468f582e2c9dc9bbc8bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/c/5c14b3619f2a23b47a557b24d0e62391dca5a4a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/8/7899f8b602c23b115acfcca6e12883f2ce4416e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/1/912f374a71bbac2e67eb227c2489c69495b32c2b" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/1/b/1b679666ce41d087cd85468f582e2c9dc9bbc8bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/5/c/5c14b3619f2a23b47a557b24d0e62391dca5a4a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/7/8/7899f8b602c23b115acfcca6e12883f2ce4416e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/9/1/912f374a71bbac2e67eb227c2489c69495b32c2b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/9/e/9e5dac1741a13883cc890c6eb0d1c4af66cef0bb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/9/e/9e5dac1741a13883cc890c6eb0d1c4af66cef0bb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/1/b/1b679666ce41d087cd85468f582e2c9dc9bbc8bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/5/c/5c14b3619f2a23b47a557b24d0e62391dca5a4a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/7/8/7899f8b602c23b115acfcca6e12883f2ce4416e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/9/1/912f374a71bbac2e67eb227c2489c69495b32c2b" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algorithm/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algorithm/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -75,47 +61,51 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Cucumber Java.이름이 지정되지 않았습니다.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/java_algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.DebugError.executor&quot;: &quot;Debug&quot;,
-    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SortNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test3.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test_11659.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test_11660.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test_11720.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test_1546.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.이름이 지정되지 않았습니다.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cucumber Java.이름이 지정되지 않았습니다.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/GitHub/java_algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.DebugError.executor": "Debug",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.SortNumbers.executor": "Run",
+    "애플리케이션.Test1.executor": "Run",
+    "애플리케이션.Test2.executor": "Run",
+    "애플리케이션.Test3.executor": "Run",
+    "애플리케이션.Test_10986.executor": "Run",
+    "애플리케이션.Test_11659.executor": "Run",
+    "애플리케이션.Test_11660.executor": "Run",
+    "애플리케이션.Test_11720.executor": "Run",
+    "애플리케이션.Test_1253.executor": "Run",
+    "애플리케이션.Test_12891.executor": "Run",
+    "애플리케이션.Test_1546.executor": "Run",
+    "애플리케이션.Test_2018.executor": "Run",
+    "애플리케이션.이름이 지정되지 않았습니다.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;redshift&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "redshift"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitHub\java_algorithm\java_DS\ArrayList" />
@@ -148,7 +138,12 @@
       <workItem from="1702364408011" duration="3213000" />
       <workItem from="1702393667136" duration="5964000" />
       <workItem from="1702440364969" duration="6804000" />
-      <workItem from="1702516143278" duration="637000" />
+      <workItem from="1702516143278" duration="7575000" />
+      <workItem from="1702602448250" duration="4997000" />
+      <workItem from="1702697616373" duration="4833000" />
+      <workItem from="1702728457236" duration="2151000" />
+      <workItem from="1702814160066" duration="971000" />
+      <workItem from="1702863197552" duration="2083000" />
     </task>
     <servers />
   </component>
